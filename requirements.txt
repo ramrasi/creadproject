@@ -1,0 +1,8 @@
+asgiref==3.4.1
+Django==3.2.12
+mysqlclient==2.1.0
+pymemcache==3.5.1
+pytz==2021.3
+six==1.16.0
+sqlparse==0.4.2
+typing_extensions==4.1.1
